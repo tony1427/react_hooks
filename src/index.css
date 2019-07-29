@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.fruitStyle{
+  border: solid;
+  border-color: blue;
+  width: 50%;
+  margin: auto;
+}
+
+.App{
+  font-family: sans-serif;
+  text-align: center;
+}
